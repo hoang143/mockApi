@@ -1,34 +1,39 @@
 {
-  "hottrends": [
-    {
-      "id": 1,
-      "category": "Thời trang",
-      "src": "https://example.com/images/fashion1.jpg",
-      "isPremium": false
-    },
-    {
-      "id": 2,
-      "category": "Công nghệ",
-      "src": "https://example.com/images/tech1.jpg",
-      "isPremium": true
-    },
-    {
-      "id": 3,
-      "category": "Ẩm thực",
-      "src": "https://example.com/images/food1.jpg",
-      "isPremium": false
-    },
-    {
-      "id": 4,
-      "category": "Du lịch",
-      "src": "https://example.com/images/travel1.jpg",
-      "isPremium": true
-    },
-    {
-      "id": 5,
-      "category": "Làm đẹp",
-      "src": "https://example.com/images/beauty1.jpg",
-      "isPremium": false
-    }
-  ]
+  "statusCode": 200,
+  "message": "Success",
+  "errorCode": 0,
+  "data": {
+    "hottrends": [
+      {
+        "id": 1,
+        "category": "Thời trang",
+        "src": "https://example.com/images/fashion1.jpg",
+        "isPremium": false
+      },
+      {
+        "id": 2,
+        "category": "Công nghệ",
+        "src": "https://example.com/images/tech1.jpg",
+        "isPremium": true
+      },
+      {
+        "id": 3,
+        "category": "Ẩm thực",
+        "src": "https://example.com/images/food1.jpg",
+        "isPremium": false
+      },
+      {
+        "id": 4,
+        "category": "Du lịch",
+        "src": "https://example.com/images/travel1.jpg",
+        "isPremium": true
+      },
+      {
+        "id": 5,
+        "category": "Làm đẹp",
+        "src": "https://example.com/images/beauty1.jpg",
+        "isPremium": false
+      }
+    ]
+  }
 }
