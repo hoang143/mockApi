@@ -63,7 +63,7 @@
         "category": "Du lịch",
         "src": "https://example.com/images/travel1.jpg",
         "isPremium": true
-      },
+      }
     ]
   }
 }
