@@ -1,0 +1,17 @@
+[
+  {
+    "categoryId": "1",
+    "name": "Technology",
+    "thumbUrl": "https://example.com/thumbs/technology.jpg"
+  },
+  {
+    "categoryId": "2",
+    "name": "Finance",
+    "thumbUrl": "https://example.com/thumbs/finance.jpg"
+  },
+  {
+    "categoryId": "3",
+    "name": "Education",
+    "thumbUrl": "https://example.com/thumbs/education.jpg"
+  }
+]
