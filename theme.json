@@ -1,27 +1,502 @@
 [
   {
     "url": "https://example.com/wallpapers/wallpaper1.jpg",
-    "categoryId": "1",
-    "isPremium": false
+    "categoryId": "6",
+    "isPremium": true
   },
   {
     "url": "https://example.com/wallpapers/wallpaper2.jpg",
-    "categoryId": "1",
+    "categoryId": "2",
     "isPremium": true
   },
   {
     "url": "https://example.com/wallpapers/wallpaper3.jpg",
-    "categoryId": "2",
-    "isPremium": false
+    "categoryId": "7",
+    "isPremium": true
   },
   {
     "url": "https://example.com/wallpapers/wallpaper4.jpg",
-    "categoryId": "3",
+    "categoryId": "8",
     "isPremium": true
   },
   {
     "url": "https://example.com/wallpapers/wallpaper5.jpg",
     "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper6.jpg",
+    "categoryId": "10",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper7.jpg",
+    "categoryId": "5",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper8.jpg",
+    "categoryId": "7",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper9.jpg",
+    "categoryId": "8",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper10.jpg",
+    "categoryId": "4",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper11.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper12.jpg",
+    "categoryId": "10",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper13.jpg",
+    "categoryId": "1",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper14.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper15.jpg",
+    "categoryId": "1",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper16.jpg",
+    "categoryId": "10",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper17.jpg",
+    "categoryId": "9",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper18.jpg",
+    "categoryId": "2",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper19.jpg",
+    "categoryId": "8",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper20.jpg",
+    "categoryId": "1",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper21.jpg",
+    "categoryId": "6",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper22.jpg",
+    "categoryId": "5",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper23.jpg",
+    "categoryId": "2",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper24.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper25.jpg",
+    "categoryId": "5",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper26.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper27.jpg",
+    "categoryId": "10",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper28.jpg",
+    "categoryId": "2",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper29.jpg",
+    "categoryId": "1",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper30.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper31.jpg",
+    "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper32.jpg",
+    "categoryId": "1",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper33.jpg",
+    "categoryId": "7",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper34.jpg",
+    "categoryId": "4",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper35.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper36.jpg",
+    "categoryId": "6",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper37.jpg",
+    "categoryId": "5",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper38.jpg",
+    "categoryId": "8",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper39.jpg",
+    "categoryId": "9",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper40.jpg",
+    "categoryId": "6",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper41.jpg",
+    "categoryId": "3",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper42.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper43.jpg",
+    "categoryId": "1",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper44.jpg",
+    "categoryId": "2",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper45.jpg",
+    "categoryId": "7",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper46.jpg",
+    "categoryId": "8",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper47.jpg",
+    "categoryId": "8",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper48.jpg",
+    "categoryId": "7",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper49.jpg",
+    "categoryId": "8",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper50.jpg",
+    "categoryId": "7",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper51.jpg",
+    "categoryId": "7",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper52.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper53.jpg",
+    "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper54.jpg",
+    "categoryId": "5",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper55.jpg",
+    "categoryId": "2",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper56.jpg",
+    "categoryId": "9",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper57.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper58.jpg",
+    "categoryId": "2",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper59.jpg",
+    "categoryId": "6",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper60.jpg",
+    "categoryId": "4",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper61.jpg",
+    "categoryId": "8",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper62.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper63.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper64.jpg",
+    "categoryId": "6",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper65.jpg",
+    "categoryId": "4",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper66.jpg",
+    "categoryId": "8",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper67.jpg",
+    "categoryId": "6",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper68.jpg",
+    "categoryId": "9",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper69.jpg",
+    "categoryId": "9",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper70.jpg",
+    "categoryId": "6",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper71.jpg",
+    "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper72.jpg",
+    "categoryId": "1",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper73.jpg",
+    "categoryId": "6",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper74.jpg",
+    "categoryId": "8",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper75.jpg",
+    "categoryId": "4",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper76.jpg",
+    "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper77.jpg",
+    "categoryId": "9",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper78.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper79.jpg",
+    "categoryId": "10",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper80.jpg",
+    "categoryId": "2",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper81.jpg",
+    "categoryId": "5",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper82.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper83.jpg",
+    "categoryId": "9",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper84.jpg",
+    "categoryId": "10",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper85.jpg",
+    "categoryId": "1",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper86.jpg",
+    "categoryId": "1",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper87.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper88.jpg",
+    "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper89.jpg",
+    "categoryId": "7",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper90.jpg",
+    "categoryId": "9",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper91.jpg",
+    "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper92.jpg",
+    "categoryId": "8",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper93.jpg",
+    "categoryId": "4",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper94.jpg",
+    "categoryId": "3",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper95.jpg",
+    "categoryId": "2",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper96.jpg",
+    "categoryId": "8",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper97.jpg",
+    "categoryId": "6",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper98.jpg",
+    "categoryId": "4",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper99.jpg",
+    "categoryId": "1",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper100.jpg",
+    "categoryId": "9",
     "isPremium": false
   }
 ]
