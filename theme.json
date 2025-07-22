@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://example.com/wallpapers/wallpaper1.jpg",
+    "categoryId": "1",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper2.jpg",
+    "categoryId": "1",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper3.jpg",
+    "categoryId": "2",
+    "isPremium": false
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper4.jpg",
+    "categoryId": "3",
+    "isPremium": true
+  },
+  {
+    "url": "https://example.com/wallpapers/wallpaper5.jpg",
+    "categoryId": "3",
+    "isPremium": false
+  }
+]
