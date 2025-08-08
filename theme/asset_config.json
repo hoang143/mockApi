@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "medias": [
+      {
+        "url": "https://images.pexels.com/photos/207983/pexels-photo-207983.jpeg",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "1",
+    "isPremium": true
+  },
+  {
+    "id": "2",
+    "medias": [
+      {
+        "url": "https://images.alphacoders.com/132/1326060.jpg",
+        "contentType": "image/jpg"
+      }
+    ],
+    "category": "2",
+    "isPremium": false
+  },
+  {
+    "id": "3",
+    "medias": [
+      {
+        "url": "https://images.pexels.com/photos/220116/pexels-photo-220116.jpeg",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "3",
+    "isPremium": true
+  },
+  {
+    "id": "4",
+    "medias": [
+      {
+        "url": "https://images.unsplash.com/photo-1605460375648-278bcbd579a6",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "4",
+    "isPremium": false
+  },
+  {
+    "id": "5",
+    "medias": [
+      {
+        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "5",
+    "isPremium": true
+  },
+  {
+    "id": "6",
+    "medias": [
+      {
+        "url": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "6",
+    "isPremium": false
+  },
+  {
+    "id": "7",
+    "medias": [
+      {
+        "url": "https://images.pexels.com/photos/301599/pexels-photo-301599.jpeg",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "7",
+    "isPremium": true
+  },
+  {
+    "id": "8",
+    "medias": [
+      {
+        "url": "https://images.unsplash.com/photo-1602407294553-6e76382f97d5",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "8",
+    "isPremium": false
+  },
+  {
+    "id": "9",
+    "medias": [
+      {
+        "url": "https://images.unsplash.com/photo-1534070189981-9c758fba0e13",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "9",
+    "isPremium": true
+  },
+  {
+    "id": "10",
+    "medias": [
+      {
+        "url": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "10",
+    "isPremium": false
+  },
+  {
+    "id": "11",
+    "medias": [
+      {
+        "url": "https://images.pexels.com/photos/207983/pexels-photo-207983.jpeg",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "1",
+    "isPremium": true
+  },
+  {
+    "id": "12",
+    "medias": [
+      {
+        "url": "https://images.alphacoders.com/132/1326060.jpg",
+        "contentType": "image/jpg"
+      }
+    ],
+    "category": "2",
+    "isPremium": false
+  },
+  {
+    "id": "13",
+    "medias": [
+      {
+        "url": "https://images.pexels.com/photos/220116/pexels-photo-220116.jpeg",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "3",
+    "isPremium": true
+  },
+  {
+    "id": "14",
+    "medias": [
+      {
+        "url": "https://images.unsplash.com/photo-1605460375648-278bcbd579a6",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "4",
+    "isPremium": false
+  },
+  {
+    "id": "15",
+    "medias": [
+      {
+        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "category": "5",
+    "isPremium": true
+  }
+]
