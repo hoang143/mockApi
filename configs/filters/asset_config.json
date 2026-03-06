@@ -120,7 +120,7 @@
     "createdAt": 1772702610
   },
           {
-    "id": "1010010",
+    "id": "1010011",
     "medias": [
       {
         "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/7c568aeb-ecba-4772-a643-5a0d9a50aa05_bright.png",
@@ -133,7 +133,7 @@
         "contentType": "image/jpeg"
       },
       {
-        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/53ddfb7b-614b-4c2d-85ba-c88eda72c651_Van_Gogh.png",
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/7c568aeb-ecba-4772-a643-5a0d9a50aa05_bright.png",
         "name": "Van_Gogh.png",
         "contentType": "image/png"
       }
