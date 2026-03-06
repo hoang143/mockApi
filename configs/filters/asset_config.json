@@ -286,5 +286,125 @@
     "isPremium": true,
     "price": 0,
     "createdAt": 1772702610
+  },
+    {
+    "id": "1010006",
+    "medias": [
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/7c568aeb-ecba-4772-a643-5a0d9a50aa05_bright.png",
+        "name": "bright.png",
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/4298e8c4-d6b2-4dd0-a118-fc94111f61b1_image_1.jpg",
+        "name": "image_1.jpg",
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/53ddfb7b-614b-4c2d-85ba-c88eda72c651_Van_Gogh.png",
+        "name": "Van_Gogh.png",
+        "contentType": "image/png"
+      }
+    ],
+    "category": "",
+    "isPremium": false,
+    "price": 0,
+    "createdAt": 1772702610
+  },
+    {
+    "id": "1010007",
+    "medias": [
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/7c568aeb-ecba-4772-a643-5a0d9a50aa05_bright.png",
+        "name": "bright.png",
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/4298e8c4-d6b2-4dd0-a118-fc94111f61b1_image_1.jpg",
+        "name": "image_1.jpg",
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/53ddfb7b-614b-4c2d-85ba-c88eda72c651_Van_Gogh.png",
+        "name": "Van_Gogh.png",
+        "contentType": "image/png"
+      }
+    ],
+    "category": "",
+    "isPremium": true,
+    "price": 0,
+    "createdAt": 1772702610
+  },
+      {
+    "id": "1010008",
+    "medias": [
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/7c568aeb-ecba-4772-a643-5a0d9a50aa05_bright.png",
+        "name": "bright.png",
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/4298e8c4-d6b2-4dd0-a118-fc94111f61b1_image_1.jpg",
+        "name": "image_1.jpg",
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/53ddfb7b-614b-4c2d-85ba-c88eda72c651_Van_Gogh.png",
+        "name": "Van_Gogh.png",
+        "contentType": "image/png"
+      }
+    ],
+    "category": "",
+    "isPremium": true,
+    "price": 0,
+    "createdAt": 1772702610
+  },
+        {
+    "id": "1010009",
+    "medias": [
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/7c568aeb-ecba-4772-a643-5a0d9a50aa05_bright.png",
+        "name": "bright.png",
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/4298e8c4-d6b2-4dd0-a118-fc94111f61b1_image_1.jpg",
+        "name": "image_1.jpg",
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/53ddfb7b-614b-4c2d-85ba-c88eda72c651_Van_Gogh.png",
+        "name": "Van_Gogh.png",
+        "contentType": "image/png"
+      }
+    ],
+    "category": "",
+    "isPremium": true,
+    "price": 0,
+    "createdAt": 1772702610
+  },
+        {
+    "id": "1010010",
+    "medias": [
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/7c568aeb-ecba-4772-a643-5a0d9a50aa05_bright.png",
+        "name": "bright.png",
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/4298e8c4-d6b2-4dd0-a118-fc94111f61b1_image_1.jpg",
+        "name": "image_1.jpg",
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://z-app-asset-cdn.zitgadeveloper.workers.dev/app-asset-prod/ai-photo/assets/53ddfb7b-614b-4c2d-85ba-c88eda72c651_Van_Gogh.png",
+        "name": "Van_Gogh.png",
+        "contentType": "image/png"
+      }
+    ],
+    "category": "",
+    "isPremium": false,
+    "price": 0,
+    "createdAt": 1772702610
   }
 ]
